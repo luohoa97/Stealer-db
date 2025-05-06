@@ -3,6 +3,7 @@ https://github.com/crpr777/BraveWalletDrainer
 https://github.com/14ms/java-stealer
 https://github.com/sefinek/easy-ip-grabber-for-discord
 https://github.com/meltingscales/PirateStealer
+https://github.com/syntheticlol/Vypix
 
 
 ----------
